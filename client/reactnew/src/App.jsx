@@ -11,6 +11,7 @@ function App() {
      
 
      <h1>Hello Jenga</h1>
+     <h2>Think it Build it</h2>
     </>
   )
 }
